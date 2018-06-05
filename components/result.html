@@ -1,0 +1,31 @@
+<?php
+if (is_object($solver)) {?>
+    <h3>Bile generate</h3>
+    <div class="table-responsive">
+        <table class="table">
+            <tbody>
+            <tr>
+                <?php foreach ($generatedColors as $color => $numberOfBalls) {?>
+                <td class="circle<?=$color?>" style="text-align: center; font-weight: bold"><?=$numberOfBalls?></td>
+                <?php } ?>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <h3>Rezultat propus</h3>
+    <div class="table-responsive">
+        <table class="table">
+            <tbody>
+            <?php foreach ($proposedSolution as $rowInfo) {?>
+            <tr>
+                <?php foreach ($rowInfo as $cellColor) {?>
+                <td class="circle<?=$cellColor?>">&nbsp;</td>
+                <?php }?>
+            </tr>
+            <?php }?>
+            </tbody>
+        </table>
+    </div>
+<?php } else {?>
+    <h2>Valoarea introdusa nu este un numar intre 1 si 10</h2>
+<?php } ?>

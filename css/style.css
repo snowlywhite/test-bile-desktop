@@ -1,0 +1,119 @@
+.circle1 {
+    background-image: -webkit-radial-gradient(
+            circle,
+            #FF0000, #FF0000 16px, transparent 16px
+    );
+    background-image: radial-gradient(
+            circle,
+            #FF0000, #FF0000 16px, transparent 16px
+    );
+    border: 1px solid grey;
+}
+
+ .circle2 {
+    background-image: -webkit-radial-gradient(
+            circle,
+            #00FF00, #00FF00 16px, transparent 16px
+    );
+    background-image: radial-gradient(
+            circle,
+            #00FF00, #00FF00 16px, transparent 16px
+    );
+    border: 1px solid grey;
+}
+
+ .circle3 {
+    background-image: -webkit-radial-gradient(
+            circle,
+            #0000FF, #0000FF 16px, transparent 16px
+    );
+    background-image: radial-gradient(
+            circle,
+            #0000FF, #0000FF 16px, transparent 16px
+    );
+    border: 1px solid grey;
+}
+
+.circle4 {
+    background-image: -webkit-radial-gradient(
+            circle,
+            #FFFF00, #FFFF00 16px, transparent 16px
+    );
+    background-image: radial-gradient(
+            circle,
+            #FFFF00, #FFFF00 16px, transparent 16px
+    );
+    border: 1px solid grey;
+}
+
+.circle5 {
+    background-image: -webkit-radial-gradient(
+            circle,
+            #808000, #808000 16px, transparent 16px
+    );
+    background-image: radial-gradient(
+            circle,
+            #808000, #808000 16px, transparent 16px
+    );
+    border: 1px solid grey;
+}
+
+.circle6 {
+    background-image: -webkit-radial-gradient(
+            circle,
+            #000080, #000080 16px, transparent 16px
+    );
+    background-image: radial-gradient(
+            circle,
+            #000080, #000080 16px, transparent 16px
+    );
+    border: 1px solid grey;
+}
+
+.circle7 {
+    background-image: -webkit-radial-gradient(
+            circle,
+            #800080, #800080 16px, transparent 16px
+    );
+    background-image: radial-gradient(
+            circle,
+            #800080, #800080 16px, transparent 16px
+    );
+    border: 1px solid grey;
+}
+
+.circle8 {
+    background-image: -webkit-radial-gradient(
+            circle,
+            #C0C0C0, #C0C0C0 16px, transparent 16px
+    );
+    background-image: radial-gradient(
+            circle,
+            #C0C0C0, #C0C0C0 16px, transparent 16px
+    );
+    border: 1px solid grey;
+}
+
+.circle9 {
+    background-image: -webkit-radial-gradient(
+            circle,
+            #FFFFFF, #808080 16px, transparent 16px
+    );
+    background-image: radial-gradient(
+            circle,
+            #FFFFFF, #808080 16px, transparent 16px
+    );
+    border: 1px solid grey;
+}
+
+.circle10 {
+    background-image: -webkit-radial-gradient(
+            circle,
+            #000000, #000000 16px, transparent 16px
+    );
+    background-image: radial-gradient(
+            circle,
+            #000000, #000000 16px, transparent 16px
+    );
+    border: 1px solid grey;
+}
